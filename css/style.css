@@ -1,0 +1,110 @@
+body
+{
+    margin: 0;
+    background-color: lightskyblue;
+}
+h1
+{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-size: 2.5rem;
+}
+
+h3{
+    color: #11999E;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 50%;
+    border-width: 5px;
+}
+
+.img1
+{
+    width: 30%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img2
+{
+    float: right;
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.btn
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.div1
+{
+    background-color: #cef5ff;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.img
+{
+    width: 10%;
+    border-radius: 50%;
+
+}
+
+.bottom-container
+{
+    /*background-color: #cef5ff;*/
+    text-align: center;
+}
+
+.middle-container
+{
+    /*background-color: #cef5ff;*/
+    text-align: center;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+}
+
+.top-cloud
+{
+    margin-top: 0;
+    position: relative;
+    left: 290px;
+}
+
+.span1
+{
+    text-decoration: underline;
+}
